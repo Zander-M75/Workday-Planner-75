@@ -6,7 +6,7 @@ console.log(dayjs().format('dddd, MMMM D YYYY'));
 var header = $('#currentDay');
 
 var button = $(".saveBtn");
-// var textInput = $(".description");
+
 
 var timeBlock = $(".time-block");
 
@@ -74,13 +74,6 @@ $(function () {
     timeBlock.each(function () {
       var blockHours = $(this).attr('id').split('-')[1];
 
-      // parseInt($(this).attr("id").split("hour")[1]);
-
-
-
-      // var path = $(this).children('textarea');
-
-      // console.log(path);
 
       if (blockHours == timeRn) {
         $(this).addClass("present");
@@ -105,10 +98,6 @@ $(function () {
   console.log(dayjs().hour());
 
 
-  // TODO: Add code to get any user input that was saved in localStorage and set
-  // the values of the corresponding textarea elements. HINT: How can the id
-  // attribute of each time-block be used to do this?
-  //
 
 
 
