@@ -12,6 +12,7 @@ This project aims to create a simple calendar application that allows a user to 
 
 ## Links
 GitHub Repo: https://github.com/Zander-M75/Workday-Planner-75
+Deployment: https://zander-m75.github.io/Workday-Planner-75/
 
 
 ## Usage
