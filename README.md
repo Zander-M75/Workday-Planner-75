@@ -1,7 +1,7 @@
 # <Workday-Planner-75>
 
 ## Description
-This project aims to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. The application will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. The Day.js library is used to manipulate the date and time.
+This project aims to create a simple calendar application that allows a user to save events for each hour of the day. The application will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. The Day.js library is used to manipulate the date and time.
 
 ## Table of Contents 
 
